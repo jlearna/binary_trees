@@ -1,4 +1,4 @@
-# binary_trees
+# 0x1D. C - Binary trees
 
 This repository aims to solve basics problems with binary tree
 
